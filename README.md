@@ -96,13 +96,10 @@ This project demonstrates a chat room application where multiple clients can con
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or further information, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or further information, please contact [abubakarjunaid611@gmail.com](abubakarjunaid611@gmail.com).
 
 ---
 
